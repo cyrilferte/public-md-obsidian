@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "disk dure/disk 1 4TO.md",
+                "file": "HD/4TO-toshiba-media-nas-backup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd19e267ab9712cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HD/4TO-toshiba-media-nas-backup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28fb2c269eb57497",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HD/4TO-toshiba-media-nas-backup.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "disk dure/disk 1 4TO.md",
+                "file": "HD/4TO-toshiba-media-nas-backup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "disk dure/disk 1 4TO.md",
+                "file": "HD/4TO-toshiba-media-nas-backup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "disk dure/disk 1 4TO.md"
+                "file": "HD/4TO-toshiba-media-nas-backup.md"
               }
             }
           }
@@ -146,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bae3efa30566e5e3",
+  "active": "28fb2c269eb57497",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "HD/4TO-toshiba-media-nas-backup.md",
     "disk 2.md",
-    "disk dure/disk 1 4TO.md",
-    "disk dure"
+    "HD"
   ]
 }
